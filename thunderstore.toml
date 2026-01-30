@@ -6,7 +6,7 @@ schemaVersion = "0.0.1"
 namespace = "zerp"
 name = "RGBnoe"
 versionNumber = "1.0.0"
-description = "RGB lighting dress"
+description = "Hades 2 mod for cycling through all hues for Melinoes dress. Configure frequency through Imgui"
 websiteUrl = "https://github.com/adi1998/RGBnoe"
 containsNsfwContent = false
 
