@@ -55,10 +55,6 @@ jobs:
         shell: pwsh
         run: dotnet tool install -g tcli
 
-      - name: Install deppth2 and pyinstaller
-        shell: pwsh
-        run: pip install deppth2 pillow lz4 PyTexturePacker
-
       - name: Add .NET tools to PATH
         shell: pwsh
         run: echo "$env:USERPROFILE\.dotnet\tools" | Out-File -FilePath $env:GITHUB_PATH -Append
@@ -66,7 +62,7 @@ jobs:
       - name: Build package
         shell: pwsh
         run: |
-          .\build.ps1
+          tcli build
           $artifact = Get-ChildItem "${{ env.build-dir }}" -File | Select-Object -ExpandProperty Name
           echo "artifact-name=$artifact" | Out-File -FilePath $env:GITHUB_ENV -Append
           echo "artifact-path=${{ env.build-dir }}/$artifact" | Out-File -FilePath $env:GITHUB_ENV -Append
