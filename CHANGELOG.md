@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-03-15
+
 - add support for changing colors for DS4 and Dualsense in sync
 
 ## [1.1.0] - 2026-02-06
@@ -12,6 +14,7 @@
 
 - First version of the mod!
 
-[unreleased]: https://github.com/adi1998/RGBnoe/compare/1.1.0...HEAD
+[unreleased]: https://github.com/adi1998/RGBnoe/compare/1.2.0...HEAD
+[1.2.0]: https://github.com/adi1998/RGBnoe/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/adi1998/RGBnoe/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/adi1998/RGBnoe/compare/295e7d89f5794662e4f6f3c97db8407409d47246...1.0.0
