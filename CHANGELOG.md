@@ -2,7 +2,11 @@
 
 ## [Unreleased]
 
+- add support for changing colors for DS4 and Dualsense in sync
+
 ## [1.1.0] - 2026-02-06
+
+- fix cases when hostile polymorph is active
 
 ## [1.0.0] - 2026-01-30
 
