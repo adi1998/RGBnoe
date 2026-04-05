@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "zerp"
 name = "RGBnoe"
-versionNumber = "1.2.0"
+versionNumber = "1.2.1"
 description = "Hades 2 mod for cycling through all hues for Melinoes dress. Configure frequency through Imgui"
 websiteUrl = "https://github.com/adi1998/RGBnoe"
 containsNsfwContent = false
@@ -47,5 +47,6 @@ communities = [ "hades-ii", ]
 
 [publish.categories]
 hades-ii = [ "mods", ]
+
 
 

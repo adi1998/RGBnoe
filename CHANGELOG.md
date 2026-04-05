@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.2.1] - 2026-04-05
+
 - fix shimmering effect on melinoe
 
 ## [1.2.0] - 2026-03-15
@@ -16,7 +18,8 @@
 
 - First version of the mod!
 
-[unreleased]: https://github.com/adi1998/RGBnoe/compare/1.2.0...HEAD
+[unreleased]: https://github.com/adi1998/RGBnoe/compare/1.2.1...HEAD
+[1.2.1]: https://github.com/adi1998/RGBnoe/compare/1.2.0...1.2.1
 [1.2.0]: https://github.com/adi1998/RGBnoe/compare/1.1.0...1.2.0
 [1.1.0]: https://github.com/adi1998/RGBnoe/compare/1.0.0...1.1.0
 [1.0.0]: https://github.com/adi1998/RGBnoe/compare/295e7d89f5794662e4f6f3c97db8407409d47246...1.0.0
