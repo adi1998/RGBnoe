@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- fix shimmering effect on melinoe
+
 ## [1.2.0] - 2026-03-15
 
 - add support for changing colors for DS4 and Dualsense in sync
